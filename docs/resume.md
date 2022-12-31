@@ -3,51 +3,44 @@ layout: resume
 title: "Resume"
 permalink: /resume
 ---
-# Nicholas Teff
+# Nicholas Teff, Ph.D.
 Data Scientist, mathematician.
-
-<div id="webaddress">
-<a href="mailto:nicholas.teff@gmail.com">nicholas.teff@gmail.com</a>
-| <a href="https://www.linkedin.com/in/nickteff/">in/nickteff</a>
-</div>
 
 
 ## Employment history
 
-`2021-Present` __Shopify__
+`2021-Present` __Shopify__ Senior data scientist
 
-`2017-2021`   __University of Iowa Center for Advancement__
+`2017-2021`   __University of Iowa Center for Advancement__ Senior data scientist
 
-`2014-2017`  __Transamerica__
+`2014-2017`  __Transamerica__ Senior risk analyst
 
-`2013-2014` __Grinnel College__
+`2013-2014` __Grinnel College__ Visitng assistant professor
 
-## Education
+## Education & training
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Degrees
+`2008--2013` __University of Iowa__ *Iowa City, IA* 
 
+- Ph.D., Mathematics
 
-## Technology skills
+`2006--2008` __University of Vermont__ *Burlington, VT*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- M.S., Mathematics
 
+`2000-2003` __Winona State University__ *Winona, MN*
 
-## Skills & Experience
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- B.A., Mathematics, Minor Economics
 
 
+### Technology skills
+
+## Skills & experience
+
+### Data science
+
+- Multiple experiences building industry-leading data analytics practices.  
+- Successfully navigated several machine learning models of customer behavior from proof-of-concept to final approval.  One was implemented to a production platform. `classification, regression, logistic regression, random forest`
 
 ## Miscellany
 

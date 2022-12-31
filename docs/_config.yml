@@ -14,7 +14,7 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
-style: davewhipp
+style: nickteff
 
 exclude:
   - .sass-cache/
