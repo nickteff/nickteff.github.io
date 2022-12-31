@@ -93,24 +93,26 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+	text-indent: -0.5em;
+	margin-bottom: 0.25em;
+	max-width: 75%;
 	/*color: #777;*/
 }
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+	width: 80%;
+	margin-top: 0.5em;
 }
 
 h1,h2,h3,h4 {
@@ -138,14 +140,14 @@ h2 {
 	color: #bc412b;
 	margin-top: 0.5em;
 	position: relative;
-	top: 1.4em;
+	top: 1.7em;
 	text-align: right;
 	width: 20%;
 }
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 1.8em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
