@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Data scientist | mathematician\nnicholas.teff@gmail.com | 605-759-8112 | Iowa City, IA\n\n\nA seasoned data scientist with 10+ years of experience using Python and SQL. At Shopify, I play a critical role in using data to drive decisions for a lending product fully powered by deep learning. I have also created analytics teams across industries, spoken at industry conferences, and volunteered to guide undergraduate students in developing practical analytics skills.\n\n\n\n2021-Present Shopify, Senior data scientist\n\nLeveraged my expertise in product analytics, analytics engineering, and machine learning to support the small business lending product, resulting in improved risk mitigation for Shopify and its external banking partners and investors. [SQL (Trino, BigQuery), PySpark, dbt, Mode, Airflow]\nSuccessfully migrated a Spark streaming pipeline for predicting loan default likelihood to one using Flink and Kafka. [pyspark, Flink, Kafka]\nProvided valuable statistical expertise for multiple A/B experiments, which led to significant improvements in the product’s UX and marketing performance. [pyspark, SQL]\nCollaborated with business partners to establish new top-line metrics and KPIs, which helped to align the lending product with Shopify’s overall growth strategy.\n\n2017-2021 University of Iowa Center for Advancement, Senior data scientist\n\nLed a team of data analysts to provide critical analytics and reporting support to the organization. [SQL (Microsoft), pandas, PowerBI, Tableau]\nInitiated and grew a successful revenue-generating social media analytics program within the first 18 months of operation. [SQL, APIs, Google Analytics, PowerBI]\nSpearheaded the development and monitoring of key metrics for the Strategic Plan to increase donor retention and engagement.\nDrove significant improvements in alumni engagement, donor identification, and campaign success through the deployment of machine learning models, resulting in a 30% lift in email engagement and a 15% increase in donations in A/B testing. [SQL, pandas, sklearn]\n\n2014-2017 Transamerica, Senior risk analyst\n\nLed the creation of an inaugural predictive analytics team of 3 data analysts and interns within the actuarial department.\nDeveloped and implemented machine learning models to predict customer behavior, with one integrated into the production actuarial platform (MG-ALFA). [SQL (Microsoft and Oracle), pandas, sklearn, R, alteryx]\nAnalyzed variable annuity portfolio risks and provided hedge recommendations, including modeling stochastic simulations of gamma and delta hedge rebalancing. [SQL, VBA]\nConducted risk reviews of risk-managed mutual funds and ETF liquidity during market downturns, providing key insights to executive management.\n\n\n\n\n2008–2013 Ph.D., Mathematics - University of Iowa, Iowa City, IA\n2006–2008 M.S., Mathematics - University of Vermont, Burlington, VT\n2000–2003 B.A., Mathematics, Minor Economics - Winona State University, Winona, MN\n\n\n\nPython (pandas, pyspark, sklearn, numpy, flask, etc…), SQL (Trino, BigQuery, MS SQL, dbt, etc…), BI tooling (Mode, Power BI, Tableau, Looker, Alteryx), GitHub/Git, R, Kafka, Spark, Flink, Airflow, HTML/CSS\n\n\n\n\n\n2021 UICA Innovation Peer Award\n2020 EverTrue’s 40 under 40\n\n\n\n2021 Know Your Audience: Data-Driven Personas DRIVE/Cast, CASE.\n2019 Demystifying Machine Learning PlugIn to Data Science, APRA.\n2019 Digital Engagement for Prospect Discovery RAISE, EverTrue.\n2018 Portfolio Optimization Big 10 Development Conference.\n2016 Predictive Analytics Transamerica’s Actuarial Department.\n\n\n\n2013 The Hessenberg representation, Ph.D. dissertation.\n2011 Representations on Hessenberg varieties and Young’s rule FPSAC 2011 proceedings, Assoc. Discrete Math. Theor. Comput. Sci. (903-914).\n\n\n\n2017-present Tippie College of Business - University of Iowa, - Mentorship and providing hands-on experience to undergraduate students in business analytics.\n2004-2006 AmeriCorps*VISTA Habitat for Humanity Restore Winona, - Managed 3 volunteer programs that focused on salvaging, reusing, and recycling.\n\n\n\nFather, coffee enthusiast, bread baker, gardener, car-camper, day-hiker, board-game geek, beginner weight-lifter"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "",
+    "text": "A seasoned data scientist with 10+ years of experience using Python and SQL. At Shopify, I play a critical role in using data to drive decisions for a lending product fully powered by deep learning. I have also created analytics teams across industries, spoken at industry conferences, and volunteered to guide undergraduate students in developing practical analytics skills."
+  },
+  {
+    "objectID": "resume.html#employment-history",
+    "href": "resume.html#employment-history",
+    "title": "Resume",
+    "section": "",
+    "text": "2021-Present Shopify, Senior data scientist\n\nLeveraged my expertise in product analytics, analytics engineering, and machine learning to support the small business lending product, resulting in improved risk mitigation for Shopify and its external banking partners and investors. [SQL (Trino, BigQuery), PySpark, dbt, Mode, Airflow]\nSuccessfully migrated a Spark streaming pipeline for predicting loan default likelihood to one using Flink and Kafka. [pyspark, Flink, Kafka]\nProvided valuable statistical expertise for multiple A/B experiments, which led to significant improvements in the product’s UX and marketing performance. [pyspark, SQL]\nCollaborated with business partners to establish new top-line metrics and KPIs, which helped to align the lending product with Shopify’s overall growth strategy.\n\n2017-2021 University of Iowa Center for Advancement, Senior data scientist\n\nLed a team of data analysts to provide critical analytics and reporting support to the organization. [SQL (Microsoft), pandas, PowerBI, Tableau]\nInitiated and grew a successful revenue-generating social media analytics program within the first 18 months of operation. [SQL, APIs, Google Analytics, PowerBI]\nSpearheaded the development and monitoring of key metrics for the Strategic Plan to increase donor retention and engagement.\nDrove significant improvements in alumni engagement, donor identification, and campaign success through the deployment of machine learning models, resulting in a 30% lift in email engagement and a 15% increase in donations in A/B testing. [SQL, pandas, sklearn]\n\n2014-2017 Transamerica, Senior risk analyst\n\nLed the creation of an inaugural predictive analytics team of 3 data analysts and interns within the actuarial department.\nDeveloped and implemented machine learning models to predict customer behavior, with one integrated into the production actuarial platform (MG-ALFA). [SQL (Microsoft and Oracle), pandas, sklearn, R, alteryx]\nAnalyzed variable annuity portfolio risks and provided hedge recommendations, including modeling stochastic simulations of gamma and delta hedge rebalancing. [SQL, VBA]\nConducted risk reviews of risk-managed mutual funds and ETF liquidity during market downturns, providing key insights to executive management."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "2008–2013 Ph.D., Mathematics - University of Iowa, Iowa City, IA\n2006–2008 M.S., Mathematics - University of Vermont, Burlington, VT\n2000–2003 B.A., Mathematics, Minor Economics - Winona State University, Winona, MN"
+  },
+  {
+    "objectID": "resume.html#technology-skills",
+    "href": "resume.html#technology-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Python (pandas, pyspark, sklearn, numpy, flask, etc…), SQL (Trino, BigQuery, MS SQL, dbt, etc…), BI tooling (Mode, Power BI, Tableau, Looker, Alteryx), GitHub/Git, R, Kafka, Spark, Flink, Airflow, HTML/CSS"
+  },
+  {
+    "objectID": "resume.html#miscellany",
+    "href": "resume.html#miscellany",
+    "title": "Resume",
+    "section": "",
+    "text": "2021 UICA Innovation Peer Award\n2020 EverTrue’s 40 under 40\n\n\n\n2021 Know Your Audience: Data-Driven Personas DRIVE/Cast, CASE.\n2019 Demystifying Machine Learning PlugIn to Data Science, APRA.\n2019 Digital Engagement for Prospect Discovery RAISE, EverTrue.\n2018 Portfolio Optimization Big 10 Development Conference.\n2016 Predictive Analytics Transamerica’s Actuarial Department.\n\n\n\n2013 The Hessenberg representation, Ph.D. dissertation.\n2011 Representations on Hessenberg varieties and Young’s rule FPSAC 2011 proceedings, Assoc. Discrete Math. Theor. Comput. Sci. (903-914).\n\n\n\n2017-present Tippie College of Business - University of Iowa, - Mentorship and providing hands-on experience to undergraduate students in business analytics.\n2004-2006 AmeriCorps*VISTA Habitat for Humanity Restore Winona, - Managed 3 volunteer programs that focused on salvaging, reusing, and recycling.\n\n\n\nFather, coffee enthusiast, bread baker, gardener, car-camper, day-hiker, board-game geek, beginner weight-lifter"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my website! Come back and see what I add here, but today, check out my resume."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
