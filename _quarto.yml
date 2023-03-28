@@ -6,8 +6,8 @@ website:
   title: "nickteff"
   navbar:
     right:
-      - about.qmd
-      - blog.qmd
+      #- about.qmd
+      #- blog.qmd
       - resume.qmd
       - icon: github
         href: https://github.com/
